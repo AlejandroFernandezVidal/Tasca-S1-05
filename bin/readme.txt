@@ -10,3 +10,4 @@ n1exercici3 - java ListaDirectorios.java /Users/alexfernandez/eclipse-workspace/
 n1exercici4 - java ListaDirectorios.java /Users/alexfernandez/eclipse-workspace/Tasca S1.03/src/n1exercici3/countries.txt 
 	accedemos de la misma manera que antes pero ahora le pasamos la ruta con el archivo txt que queremos leer.
 n1exercici5 - N/A
+n2exercici1 - N/A
